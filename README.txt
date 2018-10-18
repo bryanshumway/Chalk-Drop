@@ -7,9 +7,6 @@ to include > use \textgreater
 to include pi symbol use \pi between $ ($ switches to math mode)
 specify seperate paragraphs by leaving an empty line between.
 
-For citations add \cite{(citation name)}
-For new entries add a bibtex entry to dis.bib				*current naming convention is first authors last name and year
-
 To add comments start a line with %.					*no midline commenting
 
 Start a file for each chapter. Use \chapter{(chapter name)} to give the chapter a name.
